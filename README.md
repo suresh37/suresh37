@@ -4,8 +4,7 @@
 
 <h3 align="center">I'm working as Software Developer who has expertise with Full Stack Development</h3>
 
-
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on Java, Node, Angular
 - 🌱 I’m currently learning Azure, Devops
