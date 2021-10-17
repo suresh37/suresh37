@@ -69,24 +69,24 @@
 
 <div align="center">
 
-<a  href="https://www.linkedin.com/in/priyanshu-vaishnavi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a  href="https://www.linkedin.com/in/suresh37" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="mailto:sureshkarthick37@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:sureshkarthick37@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<a href="https://www.instagram.com/_boomer_vibes" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&alt=insta" />
+<a href="https://www.instagram.com/_boomer_vibes" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&alt=insta" /></a>
 
-<a href="https://twitter.com/sureysh_karthi" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" />
+<a href="https://twitter.com/sureysh_karthi" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 
-<a  href="https://discord.com/channels/@me"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<a  href="https://discord.com/channels/@me"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-<a  href="https://www.youtube.com/channel/" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+<a  href="https://www.youtube.com/channel/" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 
 </div>
 
 ## ❤ Views and Followers
 <a href="https://github.com/priyanshu688/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=priyanshu688">
+    <img src="https://komarev.com/ghpvc/?username=suresh37">
 </a>
-<a href="https://github.com/priyanshu688?tab=followers"><img src="https://img.shields.io/github/followers/priyanshu688?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/priyanshu688?tab=followers"><img src="https://img.shields.io/github/followers/suresh37?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
